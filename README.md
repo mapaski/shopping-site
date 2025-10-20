@@ -5,41 +5,41 @@ It blends glassmorphism, neon aesthetics, and AI-inspired interactivity to creat
 
 Features
 
-Modern UI/UX
+Modern UI/UX:
 Sleek neon-glass interface
 
-Animated hero section
+Animated hero section:
 Gradient shifts and glowing hover effects
 
- Smart Product System
+ Smart Product System:
 Dynamic product grid
 
-Add-to-cart functionality
+Add-to-cart functionality:
 Category filtering (Fashion, Gadgets, Home, Beauty)
 
-AI-Powered Search
+AI-Powered Search:
 Live search with instant product suggestions
 
-Interactive Chatbot
+Interactive Chatbot:
 Floating chatbot icon with a future-ready interface
 
-Cart Sidebar
+Cart Sidebar:
 Real-time cart updates
 
-Checkout simulation
+Checkout simulation:
 Fully Responsive
 
-Optimized for mobile and desktop
+Optimized for mobile and desktop:
 Smooth scroll and adaptive layout
 
-Tech Stack
+Tech Stack:
 Technology	Purpose
 HTML5	Structure and layout
 CSS3	Styling, animation, and glassmorphism
 JavaScript (Vanilla)	Interactivity, filtering, and logic
 
 
-Future Enhancements
+Future Enhancements:
 
 Integrate backend for real checkout
 

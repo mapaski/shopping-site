@@ -3,6 +3,9 @@ AURORA CART
 AURORA CART is a futuristic, AI-inspired shopping website built using HTML, CSS, and JavaScript.
 It blends glassmorphism, neon aesthetics, and AI-inspired interactivity to create an immersive e-commerce experience.
 
+LINK:https://mapaski.github.io/shopping-site
+
+
 Features
 
 Modern UI/UX:
